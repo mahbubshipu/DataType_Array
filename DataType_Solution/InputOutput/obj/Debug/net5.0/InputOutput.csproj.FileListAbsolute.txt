@@ -1,0 +1,16 @@
+E:\Work\DataType_Array\DataType_Solution\InputOutput\bin\Debug\net5.0\InputOutput.exe
+E:\Work\DataType_Array\DataType_Solution\InputOutput\bin\Debug\net5.0\InputOutput.deps.json
+E:\Work\DataType_Array\DataType_Solution\InputOutput\bin\Debug\net5.0\InputOutput.runtimeconfig.json
+E:\Work\DataType_Array\DataType_Solution\InputOutput\bin\Debug\net5.0\InputOutput.runtimeconfig.dev.json
+E:\Work\DataType_Array\DataType_Solution\InputOutput\bin\Debug\net5.0\InputOutput.dll
+E:\Work\DataType_Array\DataType_Solution\InputOutput\bin\Debug\net5.0\ref\InputOutput.dll
+E:\Work\DataType_Array\DataType_Solution\InputOutput\bin\Debug\net5.0\InputOutput.pdb
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\InputOutput.csproj.AssemblyReference.cache
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\InputOutput.AssemblyInfoInputs.cache
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\InputOutput.AssemblyInfo.cs
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\InputOutput.csproj.CoreCompileInputs.cache
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\InputOutput.dll
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\ref\InputOutput.dll
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\InputOutput.pdb
+E:\Work\DataType_Array\DataType_Solution\InputOutput\obj\Debug\net5.0\InputOutput.genruntimeconfig.cache
