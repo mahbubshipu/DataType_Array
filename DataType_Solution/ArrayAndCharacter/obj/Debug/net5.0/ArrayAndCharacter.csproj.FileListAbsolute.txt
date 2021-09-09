@@ -1,0 +1,16 @@
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\bin\Debug\net5.0\ArrayAndCharacter.exe
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\bin\Debug\net5.0\ArrayAndCharacter.deps.json
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\bin\Debug\net5.0\ArrayAndCharacter.runtimeconfig.json
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\bin\Debug\net5.0\ArrayAndCharacter.runtimeconfig.dev.json
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\bin\Debug\net5.0\ArrayAndCharacter.dll
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\bin\Debug\net5.0\ref\ArrayAndCharacter.dll
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\bin\Debug\net5.0\ArrayAndCharacter.pdb
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ArrayAndCharacter.csproj.AssemblyReference.cache
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ArrayAndCharacter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ArrayAndCharacter.AssemblyInfoInputs.cache
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ArrayAndCharacter.AssemblyInfo.cs
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ArrayAndCharacter.csproj.CoreCompileInputs.cache
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ArrayAndCharacter.dll
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ref\ArrayAndCharacter.dll
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ArrayAndCharacter.pdb
+E:\Work\DataType_Array\DataType_Solution\ArrayAndCharacter\obj\Debug\net5.0\ArrayAndCharacter.genruntimeconfig.cache

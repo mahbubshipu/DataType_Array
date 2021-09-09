@@ -1,0 +1,16 @@
+E:\Work\DataType_Array\DataType_Solution\Array\bin\Debug\net5.0\Array.exe
+E:\Work\DataType_Array\DataType_Solution\Array\bin\Debug\net5.0\Array.deps.json
+E:\Work\DataType_Array\DataType_Solution\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+E:\Work\DataType_Array\DataType_Solution\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+E:\Work\DataType_Array\DataType_Solution\Array\bin\Debug\net5.0\Array.dll
+E:\Work\DataType_Array\DataType_Solution\Array\bin\Debug\net5.0\ref\Array.dll
+E:\Work\DataType_Array\DataType_Solution\Array\bin\Debug\net5.0\Array.pdb
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\Array.dll
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\ref\Array.dll
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\Array.pdb
+E:\Work\DataType_Array\DataType_Solution\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
